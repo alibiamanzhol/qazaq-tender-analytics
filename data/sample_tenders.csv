@@ -1,0 +1,5 @@
+id,title,customer,supplier,budget_kzt,award_kzt,bids_count,license_count,status
+KZ-2026-001,Regional highway reconstruction,Regional roads authority,Arman Build LLP,22500000000,21060000000,4,3,awarded
+KZ-2026-002,Water network modernization,City utility department,Saryarka Engineering LLP,3850000000,3829000000,1,0,awarded
+KZ-2026-003,School capital repair,District education department,Qurylys Service LLP,740000000,621600000,2,1,awarded
+KZ-2026-004,Substation engineering services,Energy company,Nomad Engineering LLP,1290000000,1199700000,3,4,awarded
